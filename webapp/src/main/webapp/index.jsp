@@ -1,1 +1,1 @@
-Welcome to jinkies!
+Welcome to jenkins!
